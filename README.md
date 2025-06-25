@@ -1,49 +1,33 @@
-# AIRA Core – Strategisch AI & Blockchain Framework voor Noord-Nederland
+# AIRA Core – Strategic Intelligence Infrastructure for the North
 
-**AIRA (AI-Reflective Agency)** helpt organisaties in Noord-Nederland bij het navigeren van complexe transities via systeemdenken, menselijke AI, en strategische consultancy. Deze repository bevat de Laravel-gebaseerde core van onze digitale strategie-omgeving.
+**AIRA** (Adaptive Intelligence for Regional Advancement) is a human-centric AI & systems consultancy built from the ground up in the North of the Netherlands. This repository contains the core Laravel codebase for the AIRA platform, focused on enabling strategic insights, agent integration, and regional business transformation.
 
----
+## 💡 Vision
 
-## 🌐 Projectdoel
+We believe in *smart transitions* rooted in **system thinking**, **AI**, and **human oversight**. AIRA Core is not just software – it’s an enabler for municipalities, SMEs and rural innovators to navigate complexity with clarity and precision.
 
-AIRA combineert:
-- **Systeemdenken** en transformatief strategisch advies
-- **AI-agenten** voor beleids- en bedrijfsanalyse
-- **Blockchain** voor transparantie en slimme samenwerking
+## 🧱 Structure
 
----
+This repository includes:
 
-## 📁 Projectstructuur
+- `docs/` – Architecture, roadmap, and vision documents
+- `resources/views/` – Front-end templates (Laravel Blade)
+- `routes/` – Application routes and logic
+- `.env.example` – Environment config template
+- `README.md` – This documentation
+- `LICENSE` – MIT License
 
-- `resources/views/` – Websitepagina’s (Laravel Blade)
-- `routes/web.php` – Front-end routing
-- `docs/architecture.md` – Technische architectuur
-- `docs/roadmap.md` – Strategische planning
-- `.env.example` – Configuratievoorbeeld voor lokale opstelling
+## 🌐 Live Preview
 
----
+The Laravel-based AIRA website can be visited at:  
+**[https://aira-ai.com](https://aira-ai.com)**
 
-## ⚙️ Technologieën
+## 📜 License
 
-- Laravel 12
-- Tailwind CSS
-- PHP 8.2
-- GitHub (versiebeheer)
-- Hosting via Exsilia (Groningen)
+This project is open source under the [MIT License](LICENSE).
 
 ---
 
-## 📜 Licentie
+⚠️ *Note: Some commercial modules (AI agent architecture, full-stack integrations, and strategic tools) are excluded from this repository. For consultancy, implementation or partnerships, contact [engage.aira@gmail.com](mailto:engage.aira@gmail.com).*
 
-Deze repository valt onder de [MIT-licentie](LICENSE). Specifieke commerciële modules zijn **niet inbegrepen** in deze publieke repository.
 
----
-
-## 🤝 Contact
-
-Voor meer informatie of samenwerking:
-
-**Arjen Wibbens**  
-Founder – AIRA  
-📧 engage.aira@gmail.com  
-🌐 [https://aira-ai.com](https://aira-ai.com)
